@@ -4,7 +4,7 @@ DATA 120 Homework 5
 '''
 
 # PROBLEM 1
-def euclid_gcd(a: int, b: int) -> int:
+def gcd(a: int, b: int) -> int:
     '''
     Calculates the greatest common denominator of a and b using
     Euclid's Algorithm.
